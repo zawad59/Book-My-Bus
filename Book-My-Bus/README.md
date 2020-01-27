@@ -1,3 +1,3 @@
 # Book-My-Bus
-This is an online based bus ticket booking system. MySQL was used for database management. This system is developed by using JAVA Servlet.
+A Bus Ticket Management System implemented with JAVA Servlet, JSP that can serve multiple clients simultaneously. Effective response generation and a user friendly interface for easy ticketing service.
 
